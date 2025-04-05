@@ -1,9 +1,0 @@
-# Librerias que requieren ser cargadas
-
-streamlit
-pandas
-transformers
-plotly
-
-# pip install -r requisitos.txt
-# pip install streamlit pandas transformers plotly
